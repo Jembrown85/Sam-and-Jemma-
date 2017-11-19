@@ -2,8 +2,7 @@
 stuff and shit
 
 <html>
-  <head>
+  <head></head>
     <body>
     </body>
-  </head>
   </html>
